@@ -1,0 +1,16 @@
+# segredos / chave de API
+.streamlit/secrets.toml
+.env
+
+# gerados pelo sistema
+relatorios/
+exemplos/
+cache_enderecos.json
+*.pdf
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
